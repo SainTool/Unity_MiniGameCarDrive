@@ -1,5 +1,5 @@
 # Unity_MiniGameCarDrive
-
+Editor version 2022.2.15f1
 Мини-игра, в которой автомобиль движется вперёд и уворачивается от встречных машин
 
 <div id="header" align="left">
