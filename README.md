@@ -1,6 +1,8 @@
 # Unity_MiniGameCarDrive
 Editor version 2022.2.15f1
 
+Project name: "CarDrive"
+
 Мини-игра, в которой автомобиль движется вперёд и уворачивается от встречных машин
 
 <div id="header" align="left">
